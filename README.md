@@ -1,1 +1,1 @@
-# GitHub-HW1
+# TERMINAK (GITBASH)
